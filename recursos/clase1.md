@@ -1,3 +1,3 @@
-Salida dek ejemplo clase1
+Salida del ejemplo clase1
 
 ![alt text](image-7.png)
